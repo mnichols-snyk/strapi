@@ -58,8 +58,8 @@
   "dependencies": {
     "@strapi/design-system": "2.0.0-rc.13",
     "@strapi/icons": "2.0.0-rc.13",
-    "@strapi/provider-upload-local": "5.4.0",
-    "@strapi/utils": "5.4.0",
+    "@strapi/provider-upload-local": "4.11.7",
+    "@strapi/utils": "4.11.7",
     "byte-size": "8.1.1",
     "cropperjs": "1.6.1",
     "date-fns": "2.30.0",
